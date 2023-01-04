@@ -1,0 +1,15 @@
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\bin\Debug\net7.0\Projekt.exe
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\bin\Debug\net7.0\Projekt.deps.json
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\bin\Debug\net7.0\Projekt.runtimeconfig.json
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\bin\Debug\net7.0\Projekt.dll
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\bin\Debug\net7.0\Projekt.pdb
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\Projekt.AssemblyInfo.cs
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\Projekt.dll
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\refint\Projekt.dll
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\Projekt.pdb
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\Projekt.genruntimeconfig.cache
+C:\Users\ebbah\Dropbox\WEBBUTVECKLING-PROGRAMMET\Kod\Programmering i C#\Projekt\obj\Debug\net7.0\ref\Projekt.dll
